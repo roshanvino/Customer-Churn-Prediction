@@ -82,6 +82,10 @@ These drivers align with real-world customer behaviour and validate the model’
 
 ## Dashboard & Business Insights
 
+![Churn Risk Dashboard Overview](img1.png)
+
+![High-Risk Customers Detail](img2.png)
+
 The dashboard combines **portfolio-level churn monitoring** with **customer-level drill-down**, enabling a smooth transition from strategy to action.
 
 **At a high level, it shows**
